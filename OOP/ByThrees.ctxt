@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ByThrees
+comment1.params=
+comment1.target=ByThrees()
+comment2.params=x
+comment2.target=void\ setStart(int)
+comment3.params=
+comment3.target=int\ getNext()
+comment4.params=
+comment4.target=void\ reset()
+numComments=5
